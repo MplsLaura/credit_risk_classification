@@ -1,8 +1,23 @@
-# Module 12 Report Template
+# Module 20 Challenge Report 
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+Analysis was done to evaluate the performance of a model based on loan risk. I used a dataset of historical lending activity from a peer-to-peer lending company to build a model that can identify the creditworthiness of borrowers. The data set included:
+
+* Loan size
+* Interest rate
+* Borrower income
+* Debt-to-income
+* Number of accounts
+* Derogatory marks
+* Total debt
+* Loan status
+
+There are 77,537 records in the dataset. 75,036 have a healthy loan status and 2,500 have a high risk of defaulting.
+
+<img src="Images\BalanceOfTargetValues.jpg" title="Balance of Target Values">
+
+
 
 * Explain the purpose of the analysis.
 * Explain what financial information the data was on, and what you needed to predict.
